@@ -1,0 +1,36 @@
+
+
+
+{
+  "name": "Saqib Farhan",
+  "location": "Karachi, Pakistan",
+  "bio": "Full Stack Software Engineer | Open Source Contributor | Founder @ Syfus Web Agency | Freelancer",
+  "avatar": "https://github.com/SaqibFarhanProgrammer.png",
+  "portfolio": "https://saqibfarhan.vercel.app/",
+  "skills": [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Tailwind CSS",
+    "Shadcn/UI",
+    "Redux Toolkit",
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "JWT Authentication",
+    "System Design Basics",
+    "MongoDB",
+    "PostgreSQL",
+    "Git & GitHub",
+    "Postman",
+    "Jira",
+    "Figma"
+  ],
+  "social": {
+    "GitHub": "https://github.com/SaqibFarhanProgrammer",
+    "LinkedIn": "https://www.linkedin.com/in/saqib-farhan-214590340",
+    "Twitter": ""
+  }
+}
+
